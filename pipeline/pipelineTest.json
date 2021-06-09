@@ -1,5 +1,5 @@
 {
-	"name": "Pipeline 1",
+	"name": "pipelineTest",
 	"properties": {
 		"activities": [
 			{
