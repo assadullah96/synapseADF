@@ -5,7 +5,7 @@
 		"workspaceName": {
 			"value": "nyctaxiws"
 		},
-		"AzureBlobStorageLinkedService_connectionString": {
+		"AzureBlobStorageLS_connectionString": {
 			"value": ""
 		},
 		"nyctaxiws-WorkspaceDefaultSqlServer_connectionString": {
