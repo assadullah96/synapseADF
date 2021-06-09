@@ -5,9 +5,6 @@
 		"workspaceName": {
 			"value": "nyctaxiws"
 		},
-		"AzureBlobStorageLS_connectionString": {
-			"value": ""
-		},
 		"nyctaxiws-WorkspaceDefaultSqlServer_connectionString": {
 			"value": ""
 		},
